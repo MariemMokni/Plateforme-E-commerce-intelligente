@@ -3,20 +3,20 @@
 Vendora est une plateforme e-commerce moderne intégrant un **système de recommandation intelligent** basé sur le machine learning afin d'améliorer l'expérience utilisateur et d’optimiser les ventes.
 
 
----
 
-## 🚀 Objectifs du Projet
+
+## Objectifs du Projet
 
 - Concevoir une plateforme e-commerce complète et performante.
 - Personnaliser l'expérience utilisateur grâce à un moteur de recommandation.
 - Exploiter les données utilisateurs pour proposer des produits pertinents.
 - Mettre en place une architecture moderne et scalable.
 
----
 
-## 🧠 Fonctionnalités Principales
 
-### 👤 Côté Client
+## Fonctionnalités Principales
+
+### Côté Client
 - Création et gestion de compte
 - Parcours et recherche de produits
 - Ajout au panier
@@ -28,16 +28,16 @@ Vendora est une plateforme e-commerce moderne intégrant un **système de recomm
   - les interactions
   - la similarité entre produits
 
-### 🛠️ Côté Administrateur
+### Côté Administrateur
 - Gestion des produits
 - Gestion des catégories et marques
 - Gestion des commandes
 - Gestion des utilisateurs
 - Tableau de bord analytique
 
----
 
-## 🤖 Système de Recommandation
+
+## Système de Recommandation
 
 Vendora utilise **trois approches complémentaires** :
 
@@ -46,9 +46,9 @@ Vendora utilise **trois approches complémentaires** :
 ✅ Recommandation basée sur la similarité cosinus  
 
 
----
 
-## 🧱 Demo du Projet 
+
+## Demo du Projet 
 
 # Page Home
 
